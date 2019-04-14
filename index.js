@@ -12,7 +12,7 @@ client.on('ready', () => {
 
 
 
-client.login('NDEyNzI3MDU1NjU5MTcxODQw.XLL5Og.UV3pNszS5tSgTTStVPAOqCrgB0s');
+client.login(process.env.TOKEN)
 
 
 //HELP\\
